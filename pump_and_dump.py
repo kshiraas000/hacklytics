@@ -19,7 +19,7 @@ import matplotlib.pyplot as plt
 
 
 # --- Load the Combined Data ---
-with open("combined_token_data.json", "r") as infile:
+with open("../../combined_token_data.json", "r") as infile:
     combined_data = json.load(infile)
 
 # Select the token to plot, e.g. "Tap"
@@ -141,7 +141,7 @@ def label_pump_and_dump(prices, times, pump_multiplier=2.0, dump_drop=0.8, dump_
 # -------------------------------
 #    Main Script
 # -------------------------------
-with open("combined_token_data.json", "r") as infile:
+with open("../../combined_token_data.json", "r") as infile:
     combined_data = json.load(infile)
 
 # Choose the token to analyze
@@ -245,7 +245,7 @@ from sklearn.metrics import classification_report, confusion_matrix
 
 target_coin = "Tap"  # <-- Replace with whichever coin key you want to process
 
-with open("combined_token_data.json", "r") as infile:
+with open("../../combined_token_data.json", "r") as infile:
     combined_data = json.load(infile)
 
 # Check if your target coin exists in the JSON
