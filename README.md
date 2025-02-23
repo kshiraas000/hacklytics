@@ -111,11 +111,9 @@ We developed a **neural network-based system** that detects pump-and-dump scheme
    ```bash
    git clone https://github.com/yourusername/crypto-pump-dump-detection.git
    ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the system:
+2. Install dependencies
+   
+4. Run the system:
    ```bash
    python main.py
    ```
