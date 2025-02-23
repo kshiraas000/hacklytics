@@ -115,7 +115,8 @@ We developed a **neural network-based system** that detects pump-and-dump scheme
    
 4. Run the system:
    ```bash
-   python main.py
+   python app.py
+   streamlist run app.py
    ```
 
 ---
