@@ -11,7 +11,7 @@ This project aims to address one of the most pressing challenges in the cryptocu
 - **Aashna**
 - **Phuc**
 
-We are final-year Computer Science students specializing in **Machine Learning** and **Financial Technology**.
+We are Georgia Tech Computer Science students :)
 
 ---
 
